@@ -12,11 +12,10 @@
 </a>
 </p>
 
-
-
 ### Reach me on
 - <a href="https://www.linkedin.com/in/abidzard/">LinkedIn</a>
-- <a href="https://www.instagram.com/abdzrdladhst/">Instagram</a>
-- <a href="https://www.facebook.com/abidzrd">Facebook</a>
+- [LingkedIn](https://www.linkedin.com/in/abidzard/)
+- [Instagram](https://www.instagram.com/abdzrdladhst/)
+- [Facebook](https://www.facebook.com/abidzrd)
 
 <!-- **abidzard/abidzard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
