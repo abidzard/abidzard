@@ -13,8 +13,7 @@
 </p>
 
 ### Reach me on
-- <a href="https://www.linkedin.com/in/abidzard/">LinkedIn</a>
-- [LingkedIn](https://www.linkedin.com/in/abidzard/)
+- [LinkedIn](https://www.linkedin.com/in/abidzard/)
 - [Instagram](https://www.instagram.com/abdzrdladhst/)
 - [Facebook](https://www.facebook.com/abidzrd)
 
