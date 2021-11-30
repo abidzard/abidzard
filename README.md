@@ -5,7 +5,7 @@
 - ⚡ I'am interested learning Cyber Security, Digital Forensic, Incident Handler and Respons.
 
 ### Github Statistic
-<p align="center">
+<p align="left">
 <a href="https://github.com/abidzard">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=abidzard&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=abidzard&layout=compact&langs_count=8&theme=algolia"/>
